@@ -7,4 +7,4 @@ Questo è il contenuto della riga che ho cancellato: Primo Repository di prova
 
 #Le seguenti righe le ho aggiunte nel Repository Locale con Visual Studio Code
 
-Ho aggiunto questa riga
+Ho aggiunto questa riga con visual studio code
